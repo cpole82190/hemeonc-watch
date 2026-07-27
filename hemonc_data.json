@@ -1,6 +1,711 @@
 {
-  "generated": "2026-07-22 19:41",
+  "generated": "2026-07-27 07:12",
   "items": [
+    {
+      "id": "42497367",
+      "title": "AAML1831: a phase III trial comparing standard induction therapy with CPX-351 in de novo pediatric AML: a report from the Children's Oncology Group",
+      "journal": "J Clin Oncol",
+      "authors": "Pollard JA et al.",
+      "abstract": "Children's Oncology Group phase III AAML1831 trial (NCT04293562) randomizing children and young adults with newly diagnosed AML to standard daunorubicin/cytarabine versus liposomal CPX-351 induction (all with gemtuzumab ozogamicin), testing whether CPX-351 improves outcomes in de novo pediatric AML.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497367/",
+      "doi_url": "https://doi.org/10.1200/JCO-25-02979",
+      "section": "malignant",
+      "tags": [
+        "RCT",
+        "AML",
+        "Pediatric",
+        "CPX-351",
+        "Trial data"
+      ],
+      "relevance": 52.8,
+      "popularity": 21.6,
+      "days_ago": 3,
+      "evidence": "RCT"
+    },
+    {
+      "id": "42498285",
+      "title": "A phase 1/1b study of the all-oral regimen CC-486 (oral azacitidine) and venetoclax in acute myeloid leukemia",
+      "journal": "Blood Adv",
+      "authors": "Amaya ML et al.",
+      "abstract": "Single-center open-label phase 1/1b study combining oral azacitidine (CC-486) with venetoclax in newly diagnosed and relapsed/refractory AML, defining the dose and early activity of a fully oral, chemotherapy-free hypomethylating-agent/BCL2-inhibitor doublet.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498285/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2026020179",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "AML",
+        "VEN/HMA",
+        "Venetoclax",
+        "Trial data"
+      ],
+      "relevance": 40.3,
+      "popularity": 24.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42498284",
+      "title": "The NLRC4 inflammasome drives myelodysplastic syndrome by linking epigenetic reprogramming and innate immune signaling",
+      "journal": "Blood Adv",
+      "authors": "Chen C et al.",
+      "abstract": "Mouse and human study showing that Tet2 loss creates a hyper-inflammatory state in which the NLRC4 inflammasome links epigenetic reprogramming to innate immune signaling to drive myelodysplastic syndrome, nominating inflammasome components as candidate targets.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498284/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2026020095",
+      "section": "malignant",
+      "tags": [
+        "Basic / preclinical",
+        "MDS",
+        "Inflammasome",
+        "Epigenetics",
+        "Basic science"
+      ],
+      "relevance": 34.3,
+      "popularity": 17.6,
+      "days_ago": 3,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42489069",
+      "title": "Relapse risk and survival benchmarks for non-transplanted acute myeloid leukemia patients in first complete remission",
+      "journal": "Haematologica",
+      "authors": "Kugler E et al.",
+      "abstract": "Retrospective analysis of 362 adults with de novo AML who achieved first complete remission without allogeneic transplant, establishing real-world relapse and survival benchmarks needed to design and interpret post-remission maintenance strategies.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489069/",
+      "doi_url": "https://doi.org/10.3324/haematol.2026.300935",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "AML",
+        "Prognosis",
+        "Benchmark"
+      ],
+      "relevance": 41.9,
+      "popularity": 17.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42489067",
+      "title": "Blinatumomab for measurable residual disease relapse in acute myeloid leukemia with t(8;21) translocation: the BlinAML trial",
+      "journal": "Haematologica",
+      "authors": "Jimenez-Vicente C et al.",
+      "abstract": "Prospective BlinAML trial testing the CD19/CD3 bispecific blinatumomab—repurposed via aberrant lineage antigen expression—for measurable residual disease relapse in core-binding-factor AML with t(8;21), a setting lacking targeted options.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489067/",
+      "doi_url": "https://doi.org/10.3324/haematol.2026.301120",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "AML",
+        "Bispecific",
+        "Blinatumomab",
+        "MRD",
+        "Trial data"
+      ],
+      "relevance": 41.9,
+      "popularity": 36.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42498280",
+      "title": "Molecular biomarkers as key determinants of outcome in mantle cell lymphoma: results from the FIL V-RBAC trial",
+      "journal": "Blood Adv",
+      "authors": "Moia R et al.",
+      "abstract": "Comprehensive CAPP-Seq molecular profiling of 132 elderly mantle cell lymphoma patients from the phase II V-RBAC trial (venetoclax-R-BAC), identifying ATM as the most frequent mutation and defining gene mutations and copy-number changes that determine outcome.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498280/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2026020780",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Lymphoma",
+        "MCL",
+        "Genomics",
+        "Biomarker"
+      ],
+      "relevance": 40.3,
+      "popularity": 16.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42498283",
+      "title": "Clinical utility of real-time comprehensive molecular testing in large B-cell lymphoma",
+      "journal": "Blood Adv",
+      "authors": "Chihara D et al.",
+      "abstract": "Prospective pilot study (NCT05464823) assessing the feasibility and turnaround time of combined whole-exome and RNA sequencing to guide targeted-therapy decisions in large B-cell lymphoma amid a rapidly expanding treatment landscape.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498283/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2025019468",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Lymphoma",
+        "LBCL",
+        "Genomics"
+      ],
+      "relevance": 40.3,
+      "popularity": 16.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42489075",
+      "title": "Final results of the UK NCRI phase II PORT trial of pembrolizumab and radiotherapy in cutaneous T-cell lymphoma",
+      "journal": "Haematologica",
+      "authors": "Illidge T et al.",
+      "abstract": "Final results of the single-arm phase II PORT trial testing pembrolizumab followed by low-dose localized radiotherapy in advanced mycosis fungoides and Sezary syndrome, probing whether radiotherapy can amplify systemic abscopal anti-tumor immune responses.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489075/",
+      "doi_url": "https://doi.org/10.3324/haematol.2025.288878",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Lymphoma",
+        "CTCL",
+        "Immunotherapy",
+        "Radiation",
+        "Trial data"
+      ],
+      "relevance": 41.9,
+      "popularity": 20.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42489091",
+      "title": "Safety, feasibility, and efficacy of anti-PD-1 therapy for the treatment of classical Hodgkin lymphoma",
+      "journal": "Haematologica",
+      "authors": "Day JR et al.",
+      "abstract": "Review of anti-PD-1 therapy in classical Hodgkin lymphoma, synthesizing how near-universal 9p24.1 alterations underpin the durable remissions seen with PD-1 blockade and how it is being moved earlier in the treatment course.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489091/",
+      "doi_url": "https://doi.org/10.3324/haematol.2026.301267",
+      "section": "malignant",
+      "tags": [
+        "Lymphoma",
+        "Hodgkin",
+        "Checkpoint",
+        "Review"
+      ],
+      "relevance": 37.4,
+      "popularity": 22.4,
+      "days_ago": 4,
+      "evidence": "Review"
+    },
+    {
+      "id": "42489074",
+      "title": "Integrated spatially guided transcriptomics and multiplex imaging identify a high-risk CD163+/CD11c- subgroup in diffuse large B-cell lymphoma",
+      "journal": "Haematologica",
+      "authors": "Johansson A et al.",
+      "abstract": "Study of 561 DLBCL cases integrating multiplex immunofluorescence of CD163+ and CD11c+ cells with spatially guided transcriptomics, defining a CD163+/CD11c- macrophage-enriched tumor-immune microenvironment subgroup with adverse prognosis.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489074/",
+      "doi_url": "https://doi.org/10.3324/haematol.2025.300429",
+      "section": "malignant",
+      "tags": [
+        "Observational",
+        "Lymphoma",
+        "DLBCL",
+        "Microenvironment",
+        "Spatial",
+        "Basic science"
+      ],
+      "relevance": 38.9,
+      "popularity": 20.4,
+      "days_ago": 4,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42498680",
+      "title": "MRD dynamics predict progression and reveal a vulnerable state for immunotherapy interception in multiple myeloma",
+      "journal": "Blood",
+      "authors": "Gonzalez C et al.",
+      "abstract": "Analysis of 539 newly diagnosed myeloma patients with three or more next-generation-flow MRD assessments showing that MRD trajectory (not a single timepoint) predicts progression and identifies a persistent-MRD state potentially vulnerable to immunotherapeutic interception before relapse.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498680/",
+      "doi_url": "https://doi.org/10.1182/blood.2026033878",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Myeloma",
+        "MRD",
+        "Immunotherapy"
+      ],
+      "relevance": 48.3,
+      "popularity": 28.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42485589",
+      "title": "International Myeloma Working Group recommendations for the diagnosis and management of solitary plasmacytomas",
+      "journal": "J Clin Oncol",
+      "authors": "Kastritis E et al.",
+      "abstract": "International Myeloma Working Group consensus recommendations on the diagnosis, imaging, risk assessment and management of solitary bone and extramedullary plasmacytomas, roughly half of which progress to symptomatic myeloma within five years of definitive radiotherapy.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485589/",
+      "doi_url": "https://doi.org/10.1200/JCO-26-00410",
+      "section": "malignant",
+      "tags": [
+        "Review",
+        "Myeloma",
+        "Solitary plasmacytoma",
+        "Guideline"
+      ],
+      "relevance": 43.0,
+      "popularity": 22.2,
+      "days_ago": 5,
+      "evidence": "Review"
+    },
+    {
+      "id": "42481797",
+      "title": "Cytogenetics-based clinical trajectories in patients with MRD negativity post-autologous transplant for multiple myeloma",
+      "journal": "Leukemia",
+      "authors": "Mariotti EG et al.",
+      "abstract": "Analysis of 351 newly diagnosed myeloma patients who achieved MRD negativity 60-100 days after autologous stem cell transplant, dissecting how individual high-risk cytogenetic abnormalities modify the prognostic value of post-transplant MRD negativity.",
+      "date": "Jul 21, 2026",
+      "date_iso": "2026-07-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42481797/",
+      "doi_url": "https://doi.org/10.1038/s41375-026-03075-1",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Myeloma",
+        "MRD",
+        "Transplant",
+        "Cytogenetics"
+      ],
+      "relevance": 41.1,
+      "popularity": 22.0,
+      "days_ago": 6,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42499150",
+      "title": "Cardiovascular toxicity associated with bispecific antibodies in hematologic malignancies: a comprehensive pharmacovigilance analysis",
+      "journal": "Am J Hematol",
+      "authors": "Munir M et al.",
+      "abstract": "Disproportionality analysis of the FDA FAERS database (7,647 bispecific-antibody reports vs the full database) characterizing cardiovascular adverse events across approved T-cell-engaging bispecifics in hematologic malignancies, flagging under-recognized cardiac safety signals.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499150/",
+      "doi_url": "https://doi.org/10.1002/ajh.70449",
+      "section": "malignant",
+      "tags": [
+        "Observational",
+        "Bispecific",
+        "Toxicity",
+        "Pharmacovigilance"
+      ],
+      "relevance": 37.3,
+      "popularity": 20.6,
+      "days_ago": 3,
+      "evidence": "Observational"
+    },
+    {
+      "id": "42498834",
+      "title": "Five-year follow-up of OPTIC: long-term efficacy, safety, and mutation analyses of ponatinib in chronic-phase CML from a randomized phase 2 trial",
+      "journal": "Leukemia",
+      "authors": "Kantarjian H et al.",
+      "abstract": "Five-year outcomes of the randomized phase 2 OPTIC trial (NCT02467270) of response-based ponatinib dosing (45 mg reduced to 15 mg on achieving <=1% BCR::ABL1) in 283 patients with TKI-resistant or T315I-positive chronic-phase CML, confirming durable long-term benefit:risk.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498834/",
+      "doi_url": "https://doi.org/10.1038/s41375-026-03009-x",
+      "section": "malignant",
+      "tags": [
+        "RCT",
+        "CML",
+        "TKI",
+        "Ponatinib",
+        "Trial data"
+      ],
+      "relevance": 46.8,
+      "popularity": 23.6,
+      "days_ago": 3,
+      "evidence": "RCT"
+    },
+    {
+      "id": "42498281",
+      "title": "Long-term outcomes with continuous venetoclax for relapsed chronic lymphocytic leukemia",
+      "journal": "Blood Adv",
+      "authors": "McKeague S et al.",
+      "abstract": "Study of 86 relapsed/refractory CLL patients treated with continuous venetoclax describing the characteristics and outcomes of long-term responders (>5 years without progression), addressing the unknown consequences of very-long-term BCL2 inhibition.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498281/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2026020789",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "CLL",
+        "BCL2 inhibitor",
+        "Venetoclax"
+      ],
+      "relevance": 40.3,
+      "popularity": 25.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42493343",
+      "title": "Clinical implications of CD19-negative relapse following CD19-directed therapy in B-cell acute lymphoblastic leukemia",
+      "journal": "Am J Hematol",
+      "authors": "Othman T et al.",
+      "abstract": "Retrospective analysis of 65 adults with B-cell ALL who developed CD19-negative relapse after CD19-directed therapy (blinatumomab or CAR T cells), characterizing the enrichment of TP53 mutations and BCR::ABL1-like ALL and defining subsequent treatment patterns and outcomes.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493343/",
+      "doi_url": "https://doi.org/10.1002/ajh.70450",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "ALL",
+        "CAR-T",
+        "Bispecific",
+        "Antigen loss"
+      ],
+      "relevance": 39.9,
+      "popularity": 31.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42486676",
+      "title": "Chronic GVHD Consortium CATCH study: incidence, initial presentation and risk factors for chronic GVHD development",
+      "journal": "Blood Adv",
+      "authors": "Pidala JA et al.",
+      "abstract": "Prospective multicenter observational CATCH study enrolling patients before allogeneic transplant to capture the incidence, earliest presenting signs and risk factors of chronic graft-versus-host disease in the modern era, to inform trials of early intervention.",
+      "date": "Jul 22, 2026",
+      "date_iso": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486676/",
+      "doi_url": "https://doi.org/10.1182/bloodadvances.2026021346",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Transplant",
+        "GVHD"
+      ],
+      "relevance": 39.5,
+      "popularity": 14.2,
+      "days_ago": 5,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42489077",
+      "title": "Belumosudil achieves clinical response in chronic graft-versus-host disease with varying organ-specific response kinetics: an analysis from the phase II ROCKstar trial",
+      "journal": "Haematologica",
+      "authors": "Ali A et al.",
+      "abstract": "Secondary analysis of the phase II ROCKstar trial dissecting organ-specific response kinetics to the ROCK2 inhibitor belumosudil in chronic graft-versus-host disease, showing that different organs respond on different timescales.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42489077/",
+      "doi_url": "https://doi.org/10.3324/haematol.2026.301043",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Transplant",
+        "GVHD",
+        "Belumosudil",
+        "Trial data"
+      ],
+      "relevance": 41.9,
+      "popularity": 18.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42490071",
+      "title": "Ultralow-dose interleukin-10-expressing CAR T cells in relapsed/refractory diffuse large B-cell lymphoma: a nonrandomized clinical trial",
+      "journal": "JAMA Oncol",
+      "authors": "Hu Y et al.",
+      "abstract": "Phase 1 nonrandomized trial of META 10-19, an IL-10-armored CD19 CAR T-cell product, given at ultralow dose in relapsed/refractory DLBCL, evaluating whether cytokine-armoring preserves efficacy while reducing cell dose and toxicity.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490071/",
+      "doi_url": "https://doi.org/10.1001/jamaoncol.2026.2490",
+      "section": "malignant",
+      "tags": [
+        "Trial / prospective",
+        "Lymphoma",
+        "DLBCL",
+        "CAR-T",
+        "IL-10",
+        "Trial data"
+      ],
+      "relevance": 45.9,
+      "popularity": 34.4,
+      "days_ago": 4,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42498681",
+      "title": "BCMA-directed CAR T-cell therapy induces durable drug-free remission in refractory primary immune thrombocytopenia",
+      "journal": "Blood",
+      "authors": "Shu J et al.",
+      "abstract": "First clinical evaluation of BCMA-directed CAR T-cell therapy in four patients with refractory primary immune thrombocytopenia, showing manageable safety plus rapid, sustained platelet recovery and durable drug-free complete remission lasting up to 15 months.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498681/",
+      "doi_url": "https://doi.org/10.1182/blood.2026035047",
+      "section": "benign",
+      "tags": [
+        "Trial / prospective",
+        "ITP",
+        "CAR-T",
+        "BCMA",
+        "Autoimmune",
+        "Trial data"
+      ],
+      "relevance": 48.3,
+      "popularity": 34.6,
+      "days_ago": 3,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42503638",
+      "title": "Efficacy and safety of high-dose eltrombopag for treating adult immune thrombocytopenia: a multicentre retrospective cohort study",
+      "journal": "Br J Haematol",
+      "authors": "Dahan S et al.",
+      "abstract": "Multicenter retrospective cohort study evaluating the efficacy and safety of high-dose eltrombopag in adults with immune thrombocytopenia who had insufficient response to standard thrombopoietin-receptor-agonist dosing.",
+      "date": "Jul 26, 2026",
+      "date_iso": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42503638/",
+      "doi_url": "https://doi.org/10.1111/bjh.70728",
+      "section": "benign",
+      "tags": [
+        "Trial / prospective",
+        "ITP",
+        "Eltrombopag",
+        "TPO-RA"
+      ],
+      "relevance": 37.1,
+      "popularity": 15.0,
+      "days_ago": 1,
+      "evidence": "Trial / prospective"
+    },
+    {
+      "id": "42498286",
+      "title": "Factor V is an anticoagulant of the extrinsic pathway of coagulation and a modifier of thrombin generation in hemophilia A",
+      "journal": "Blood",
+      "authors": "Jewell M et al.",
+      "abstract": "Mechanistic coagulation study showing procofactor factor V downregulates tissue-factor/FVIIa-driven factor X activation independently of TFPI-alpha, a braking mechanism particularly consequential in hemophilia A and relevant to rebalancing therapies.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498286/",
+      "doi_url": "https://doi.org/10.1182/blood.2025032705",
+      "section": "benign",
+      "tags": [
+        "Basic / preclinical",
+        "Hemophilia",
+        "Coagulation",
+        "Factor V",
+        "Basic science"
+      ],
+      "relevance": 42.3,
+      "popularity": 22.6,
+      "days_ago": 3,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42501970",
+      "title": "Acute stress activates Piezo1 to drive NETs formation and aggravated arterial thrombosis",
+      "journal": "J Thromb Haemost",
+      "authors": "Yu C et al.",
+      "abstract": "Mouse study identifying the mechanosensitive channel Piezo1 as a link between acute psychological stress and arterial thrombosis, showing stress-driven Piezo1 activation promotes neutrophil extracellular trap formation and worsens thrombosis via a neuro-immune axis.",
+      "date": "Jul 25, 2026",
+      "date_iso": "2026-07-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501970/",
+      "doi_url": "https://doi.org/10.1016/j.jtha.2026.07.019",
+      "section": "benign",
+      "tags": [
+        "Basic / preclinical",
+        "Thrombosis",
+        "NETs",
+        "Piezo1",
+        "Basic science"
+      ],
+      "relevance": 30.7,
+      "popularity": 12.8,
+      "days_ago": 2,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42502882",
+      "title": "Hydroxyurea (hydroxycarbamide) in haemoglobin SC disease: moving from therapeutic hesitation to evidence-guided care",
+      "journal": "Br J Haematol",
+      "authors": "Setayesh T et al.",
+      "abstract": "Commentary on a real-world Quebec cohort showing hydroxyurea use in adults with hemoglobin SC disease was associated with fewer vaso-occlusive events and mostly mild toxicity without hyperviscosity complications, arguing for evidence-guided rather than hesitant use.",
+      "date": "Jul 26, 2026",
+      "date_iso": "2026-07-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502882/",
+      "doi_url": "https://doi.org/10.1111/bjh.70654",
+      "section": "benign",
+      "tags": [
+        "Sickle cell",
+        "HbSC",
+        "Hydroxyurea",
+        "Review"
+      ],
+      "relevance": 32.6,
+      "popularity": 16.0,
+      "days_ago": 1,
+      "evidence": "Review"
+    },
+    {
+      "id": "42492015",
+      "title": "Total neoadjuvant therapy with long-course radiotherapy versus chemoradiotherapy in high-risk locally advanced rectal cancer (TNTCRT): a phase III trial",
+      "journal": "J Clin Oncol",
+      "authors": "Wang X et al.",
+      "abstract": "Multicenter randomized phase III TNTCRT trial comparing total neoadjuvant therapy integrating long-course radiotherapy with uninterrupted doublet chemotherapy versus conventional neoadjuvant chemoradiotherapy in high-risk stage II/III locally advanced rectal cancer, with disease-free survival as the endpoint.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492015/",
+      "doi_url": "https://doi.org/10.1200/JCO-25-03110",
+      "section": "solid",
+      "tags": [
+        "RCT",
+        "GI",
+        "Rectal",
+        "Radiation",
+        "Trial data"
+      ],
+      "relevance": 52.4,
+      "popularity": 21.4,
+      "days_ago": 4,
+      "evidence": "RCT"
+    },
+    {
+      "id": "42492022",
+      "title": "Hypo- versus standard-fractionated locoregional radiotherapy in high-risk breast cancer: the randomized phase III DBCG Skagen Trial 1",
+      "journal": "J Clin Oncol",
+      "authors": "Offersen BV et al.",
+      "abstract": "Randomized phase III DBCG Skagen Trial 1 testing whether hypofractionated locoregional radiotherapy (40 Gy/15 fractions) causes no more lymphedema at three years than standard 50 Gy/25 fractions in node-positive/high-risk breast cancer, without compromising disease control.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492022/",
+      "doi_url": "https://doi.org/10.1200/JCO-25-02705",
+      "section": "solid",
+      "tags": [
+        "RCT",
+        "Breast",
+        "Radiation",
+        "Trial data"
+      ],
+      "relevance": 52.4,
+      "popularity": 23.4,
+      "days_ago": 4,
+      "evidence": "RCT"
+    },
+    {
+      "id": "42498740",
+      "title": "Towards liquid biopsy-based analysis of antitumour immunity",
+      "journal": "Nat Rev Clin Oncol",
+      "authors": "Pantel K et al.",
+      "abstract": "Review surveying how multimodal liquid-biopsy analyses of circulating tumor cells, ctDNA, immune cells and their products in peripheral blood could enable non-invasive, longitudinal monitoring of antitumor immune responses to guide immunotherapy.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498740/",
+      "doi_url": "https://doi.org/10.1038/s41571-026-01181-8",
+      "section": "solid",
+      "tags": [
+        "Liquid biopsy",
+        "ctDNA",
+        "Immunotherapy",
+        "Review"
+      ],
+      "relevance": 41.8,
+      "popularity": 33.6,
+      "days_ago": 3,
+      "evidence": "Review"
+    },
+    {
+      "id": "42490500",
+      "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B-cell somatic hypermutation",
+      "journal": "Science",
+      "authors": "Cheng Y et al.",
+      "abstract": "Single-cell 3D-genome and transcriptome mapping across human tonsil cell types and B-cell lymphoma lines showing how cohesin-mediated loop extrusion shapes immunoglobulin somatic hypermutation, with implications for the origins of B-cell lymphoma.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490500/",
+      "doi_url": "https://doi.org/10.1126/science.adw4243",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "B-cell biology",
+        "3D genome",
+        "Somatic hypermutation",
+        "Basic science"
+      ],
+      "relevance": 39.9,
+      "popularity": 22.4,
+      "days_ago": 4,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42493507",
+      "title": "Single-cell multimodal profiling of pan-cancer cell lines uncovers gene-regulatory principles underlying intrinsic cell states",
+      "journal": "Nat Commun",
+      "authors": "Xu Z et al.",
+      "abstract": "Pan-cancer single-cell atlas of 60 cancer cell lines across 16 tissue origins (>460,000 snRNA-seq and snATAC-seq profiles) charting cancer-intrinsic gene-regulatory networks, cell-state heterogeneity and a conserved epithelial-mesenchymal transition axis.",
+      "date": "Jul 23, 2026",
+      "date_iso": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493507/",
+      "doi_url": "https://doi.org/10.1038/s41467-026-75360-7",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "Pan-cancer",
+        "Single-cell",
+        "Gene regulation",
+        "Basic science"
+      ],
+      "relevance": 31.9,
+      "popularity": 21.4,
+      "days_ago": 4,
+      "evidence": "Basic / preclinical"
+    },
+    {
+      "id": "42497870",
+      "title": "A self-amplifying nerve-fibroblast circuit drives colorectal cancer progression",
+      "journal": "Cancer Cell",
+      "authors": "Kobayashi H et al.",
+      "abstract": "Study showing that in colorectal cancer cholinergic signaling drives a self-reinforcing feedforward loop between cancer-associated fibroblasts (via CHRM3/Gq-dependent netrin-1 secretion) and tumor innervation that promotes tumor growth, nominating the circuit as a therapeutic target.",
+      "date": "Jul 24, 2026",
+      "date_iso": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497870/",
+      "doi_url": "https://doi.org/10.1016/j.ccell.2026.06.018",
+      "section": "landmark",
+      "tags": [
+        "Basic / preclinical",
+        "Colorectal",
+        "Tumor microenvironment",
+        "Neuroscience",
+        "Basic science"
+      ],
+      "relevance": 40.3,
+      "popularity": 22.6,
+      "days_ago": 3,
+      "evidence": "Basic / preclinical"
+    },
     {
       "id": "42441929",
       "title": "Magrolimab plus azacitidine versus placebo plus azacitidine in untreated higher-risk myelodysplastic syndromes: the phase 3 ENHANCE study",
@@ -20,9 +725,9 @@
         "Immunotherapy",
         "Trial data"
       ],
-      "relevance": 50.4,
-      "popularity": 30.4,
-      "days_ago": 9,
+      "relevance": 48.4,
+      "popularity": 29.4,
+      "days_ago": 14,
       "evidence": "RCT"
     },
     {
@@ -42,9 +747,9 @@
         "MRD",
         "VEN/HMA"
       ],
-      "relevance": 41.5,
-      "popularity": 33.2,
-      "days_ago": 5,
+      "relevance": 39.5,
+      "popularity": 32.2,
+      "days_ago": 10,
       "evidence": "Trial / prospective"
     },
     {
@@ -64,9 +769,9 @@
         "del(5q)",
         "Risk model"
       ],
-      "relevance": 39.1,
-      "popularity": 16.0,
-      "days_ago": 6,
+      "relevance": 37.1,
+      "popularity": 15.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -86,9 +791,9 @@
         "Genomics",
         "Prognosis"
       ],
-      "relevance": 39.9,
-      "popularity": 16.4,
-      "days_ago": 4,
+      "relevance": 37.9,
+      "popularity": 15.4,
+      "days_ago": 9,
       "evidence": "Trial / prospective"
     },
     {
@@ -108,9 +813,9 @@
         "NPM1",
         "Genomics"
       ],
-      "relevance": 41.1,
-      "popularity": 18.0,
-      "days_ago": 6,
+      "relevance": 39.1,
+      "popularity": 17.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -131,9 +836,9 @@
         "Genomics",
         "Prognosis"
       ],
-      "relevance": 39.9,
-      "popularity": 17.4,
-      "days_ago": 9,
+      "relevance": 37.9,
+      "popularity": 16.4,
+      "days_ago": 14,
       "evidence": "Trial / prospective"
     },
     {
@@ -155,9 +860,9 @@
         "Maintenance",
         "Trial data"
       ],
-      "relevance": 50.8,
-      "popularity": 26.6,
-      "days_ago": 8,
+      "relevance": 48.8,
+      "popularity": 25.6,
+      "days_ago": 13,
       "evidence": "RCT"
     },
     {
@@ -178,9 +883,9 @@
         "NLPHL",
         "Risk model"
       ],
-      "relevance": 41.1,
-      "popularity": 21.0,
-      "days_ago": 6,
+      "relevance": 39.1,
+      "popularity": 20.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -201,9 +906,9 @@
         "MYC",
         "Basic science"
       ],
-      "relevance": 32.3,
-      "popularity": 15.6,
-      "days_ago": 8,
+      "relevance": 30.3,
+      "popularity": 14.6,
+      "days_ago": 13,
       "evidence": "Basic / preclinical"
     },
     {
@@ -225,9 +930,9 @@
         "CAR-T",
         "Bispecific"
       ],
-      "relevance": 48.2,
-      "popularity": 35.8,
-      "days_ago": 2,
+      "relevance": 46.2,
+      "popularity": 34.8,
+      "days_ago": 7,
       "evidence": "Meta-analysis"
     },
     {
@@ -248,9 +953,9 @@
         "Obe-cel",
         "Trial data"
       ],
-      "relevance": 41.5,
-      "popularity": 31.2,
-      "days_ago": 5,
+      "relevance": 39.5,
+      "popularity": 30.2,
+      "days_ago": 10,
       "evidence": "Trial / prospective"
     },
     {
@@ -271,9 +976,9 @@
         "Asciminib",
         "Trial data"
       ],
-      "relevance": 41.1,
-      "popularity": 23.0,
-      "days_ago": 6,
+      "relevance": 39.1,
+      "popularity": 22.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -294,9 +999,9 @@
         "MRD",
         "Transplant"
       ],
-      "relevance": 41.1,
-      "popularity": 34.0,
-      "days_ago": 6,
+      "relevance": 39.1,
+      "popularity": 33.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -315,9 +1020,9 @@
         "CNS",
         "Review"
       ],
-      "relevance": 37.0,
-      "popularity": 17.2,
-      "days_ago": 5,
+      "relevance": 35.0,
+      "popularity": 16.2,
+      "days_ago": 10,
       "evidence": "Review"
     },
     {
@@ -338,9 +1043,9 @@
         "Toxicity",
         "TMA"
       ],
-      "relevance": 35.1,
-      "popularity": 31.0,
-      "days_ago": 6,
+      "relevance": 33.1,
+      "popularity": 30.0,
+      "days_ago": 11,
       "evidence": "Case series"
     },
     {
@@ -359,9 +1064,9 @@
         "Transplant",
         "Donor-derived malignancy"
       ],
-      "relevance": 38.1,
-      "popularity": 15.0,
-      "days_ago": 6,
+      "relevance": 36.1,
+      "popularity": 14.0,
+      "days_ago": 11,
       "evidence": "Observational"
     },
     {
@@ -382,9 +1087,9 @@
         "CAR-T",
         "Transplant"
       ],
-      "relevance": 35.5,
-      "popularity": 31.2,
-      "days_ago": 5,
+      "relevance": 33.5,
+      "popularity": 30.2,
+      "days_ago": 10,
       "evidence": "Trial / prospective"
     },
     {
@@ -405,9 +1110,9 @@
         "Prophylaxis",
         "Trial data"
       ],
-      "relevance": 39.5,
-      "popularity": 28.2,
-      "days_ago": 5,
+      "relevance": 37.5,
+      "popularity": 27.2,
+      "days_ago": 10,
       "evidence": "Trial / prospective"
     },
     {
@@ -427,9 +1132,9 @@
         "Factor VIII",
         "Prophylaxis"
       ],
-      "relevance": 38.3,
-      "popularity": 24.6,
-      "days_ago": 8,
+      "relevance": 36.3,
+      "popularity": 23.6,
+      "days_ago": 13,
       "evidence": "Trial / prospective"
     },
     {
@@ -449,9 +1154,9 @@
         "Factor VIII",
         "Basic science"
       ],
-      "relevance": 40.3,
-      "popularity": 20.6,
-      "days_ago": 8,
+      "relevance": 38.3,
+      "popularity": 19.6,
+      "days_ago": 13,
       "evidence": "Basic / preclinical"
     },
     {
@@ -471,9 +1176,9 @@
         "Fibrinolysis",
         "Review"
       ],
-      "relevance": 36.2,
-      "popularity": 14.8,
-      "days_ago": 2,
+      "relevance": 34.2,
+      "popularity": 13.8,
+      "days_ago": 7,
       "evidence": "Review"
     },
     {
@@ -495,9 +1200,9 @@
         "Solid tumor",
         "Trial data"
       ],
-      "relevance": 46.3,
-      "popularity": 37.6,
-      "days_ago": 8,
+      "relevance": 44.3,
+      "popularity": 36.6,
+      "days_ago": 13,
       "evidence": "Trial / prospective"
     },
     {
@@ -517,9 +1222,9 @@
         "ADC",
         "Review"
       ],
-      "relevance": 41.4,
-      "popularity": 23.4,
-      "days_ago": 9,
+      "relevance": 39.4,
+      "popularity": 22.4,
+      "days_ago": 14,
       "evidence": "Review"
     },
     {
@@ -540,9 +1245,9 @@
         "Chromatin",
         "Basic science"
       ],
-      "relevance": 35.9,
-      "popularity": 26.4,
-      "days_ago": 14,
+      "relevance": 33.9,
+      "popularity": 25.4,
+      "days_ago": 19,
       "evidence": "Basic / preclinical"
     },
     {
@@ -563,9 +1268,9 @@
         "Glofitamab",
         "Trial data"
       ],
-      "relevance": 47.1,
-      "popularity": 43.0,
-      "days_ago": 6,
+      "relevance": 45.1,
+      "popularity": 42.0,
+      "days_ago": 11,
       "evidence": "Trial / prospective"
     },
     {
@@ -586,9 +1291,9 @@
         "Leukemia stem cell",
         "Basic science"
       ],
-      "relevance": 38.7,
-      "popularity": 23.8,
-      "days_ago": 7,
+      "relevance": 36.7,
+      "popularity": 22.8,
+      "days_ago": 12,
       "evidence": "Basic / preclinical"
     },
     {
@@ -609,9 +1314,9 @@
         "Targeted protein degradation",
         "Basic science"
       ],
-      "relevance": 36.3,
-      "popularity": 27.6,
-      "days_ago": 13,
+      "relevance": 34.3,
+      "popularity": 26.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -631,9 +1336,9 @@
         "MPN",
         "Review"
       ],
-      "relevance": 37.8,
-      "popularity": 30.6,
-      "days_ago": 13,
+      "relevance": 35.8,
+      "popularity": 29.6,
+      "days_ago": 18,
       "evidence": "Review"
     },
     {
@@ -653,9 +1358,9 @@
         "Tumor immunology",
         "Basic science"
       ],
-      "relevance": 37.5,
-      "popularity": 33.2,
-      "days_ago": 0,
+      "relevance": 35.5,
+      "popularity": 32.2,
+      "days_ago": 5,
       "evidence": "Basic / preclinical"
     },
     {
@@ -677,9 +1382,9 @@
         "Pirtobrutinib",
         "Trial data"
       ],
-      "relevance": 46.8,
-      "popularity": 41.6,
-      "days_ago": 13,
+      "relevance": 44.8,
+      "popularity": 40.6,
+      "days_ago": 18,
       "evidence": "RCT"
     },
     {
@@ -701,9 +1406,9 @@
         "Venetoclax",
         "Trial data"
       ],
-      "relevance": 41.9,
-      "popularity": 28.4,
-      "days_ago": 14,
+      "relevance": 39.9,
+      "popularity": 27.4,
+      "days_ago": 19,
       "evidence": "Trial / prospective"
     },
     {
@@ -723,9 +1428,9 @@
         "CAR-T",
         "Toxicity"
       ],
-      "relevance": 43.9,
-      "popularity": 24.4,
-      "days_ago": 14,
+      "relevance": 41.9,
+      "popularity": 23.4,
+      "days_ago": 19,
       "evidence": "Trial / prospective"
     },
     {
@@ -746,9 +1451,9 @@
         "Menin",
         "Basic science"
       ],
-      "relevance": 37.9,
-      "popularity": 28.4,
-      "days_ago": 14,
+      "relevance": 35.9,
+      "popularity": 27.4,
+      "days_ago": 19,
       "evidence": "Basic / preclinical"
     },
     {
@@ -766,9 +1471,9 @@
         "MDS",
         "Review"
       ],
-      "relevance": 29.4,
-      "popularity": 11.4,
-      "days_ago": 19,
+      "relevance": 27.4,
+      "popularity": 11.0,
+      "days_ago": 24,
       "evidence": "Review"
     },
     {
@@ -788,9 +1493,9 @@
         "CAR-T",
         "Trial data"
       ],
-      "relevance": 35.9,
-      "popularity": 29.4,
-      "days_ago": 19,
+      "relevance": 33.9,
+      "popularity": 29.0,
+      "days_ago": 24,
       "evidence": "Trial / prospective"
     },
     {
@@ -810,9 +1515,9 @@
         "HGBCL",
         "Genomics"
       ],
-      "relevance": 36.7,
-      "popularity": 14.8,
-      "days_ago": 12,
+      "relevance": 34.7,
+      "popularity": 13.8,
+      "days_ago": 17,
       "evidence": "Trial / prospective"
     },
     {
@@ -834,9 +1539,9 @@
         "MRD",
         "ctDNA"
       ],
-      "relevance": 36.7,
-      "popularity": 33.8,
-      "days_ago": 12,
+      "relevance": 34.7,
+      "popularity": 32.8,
+      "days_ago": 17,
       "evidence": "Trial / prospective"
     },
     {
@@ -856,9 +1561,9 @@
         "Olverembatinib",
         "Review"
       ],
-      "relevance": 33.8,
-      "popularity": 20.6,
-      "days_ago": 13,
+      "relevance": 31.8,
+      "popularity": 19.6,
+      "days_ago": 18,
       "evidence": "Review"
     },
     {
@@ -880,9 +1585,9 @@
         "BTK inhibitor",
         "Basic science"
       ],
-      "relevance": 32.3,
-      "popularity": 34.6,
-      "days_ago": 13,
+      "relevance": 30.3,
+      "popularity": 33.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -901,9 +1606,9 @@
         "CAR-T",
         "Basic science"
       ],
-      "relevance": 27.5,
-      "popularity": 23.2,
-      "days_ago": 20,
+      "relevance": 25.5,
+      "popularity": 23.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -923,9 +1628,9 @@
         "GVHD",
         "CAR-T"
       ],
-      "relevance": 32.7,
-      "popularity": 27.8,
-      "days_ago": 12,
+      "relevance": 30.7,
+      "popularity": 26.8,
+      "days_ago": 17,
       "evidence": "Trial / prospective"
     },
     {
@@ -944,9 +1649,9 @@
         "Hemophilia",
         "Gene therapy"
       ],
-      "relevance": 35.5,
-      "popularity": 20.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 20.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -965,9 +1670,9 @@
         "Acquired hemophilia",
         "Pregnancy"
       ],
-      "relevance": 26.7,
-      "popularity": 14.8,
-      "days_ago": 12,
+      "relevance": 24.7,
+      "popularity": 13.8,
+      "days_ago": 17,
       "evidence": "Case series"
     },
     {
@@ -986,9 +1691,9 @@
         "Von Willebrand disease",
         "Health economics"
       ],
-      "relevance": 33.7,
-      "popularity": 12.8,
-      "days_ago": 12,
+      "relevance": 31.7,
+      "popularity": 11.8,
+      "days_ago": 17,
       "evidence": "Observational"
     },
     {
@@ -1009,9 +1714,9 @@
         "Targeted therapy",
         "Trial data"
       ],
-      "relevance": 48.8,
-      "popularity": 27.6,
-      "days_ago": 13,
+      "relevance": 46.8,
+      "popularity": 26.6,
+      "days_ago": 18,
       "evidence": "RCT"
     },
     {
@@ -1033,9 +1738,9 @@
         "Solid tumor",
         "Trial data"
       ],
-      "relevance": 35.1,
+      "relevance": 33.1,
       "popularity": 27.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -1054,9 +1759,9 @@
         "Immunotherapy",
         "Review"
       ],
-      "relevance": 31.4,
-      "popularity": 18.4,
-      "days_ago": 19,
+      "relevance": 29.4,
+      "popularity": 18.0,
+      "days_ago": 24,
       "evidence": "Review"
     },
     {
@@ -1077,9 +1782,9 @@
         "KRAS",
         "Trial data"
       ],
-      "relevance": 44.3,
-      "popularity": 26.6,
-      "days_ago": 13,
+      "relevance": 42.3,
+      "popularity": 25.6,
+      "days_ago": 18,
       "evidence": "Trial / prospective"
     },
     {
@@ -1101,9 +1806,9 @@
         "Checkpoint",
         "Trial data"
       ],
-      "relevance": 44.7,
-      "popularity": 32.8,
-      "days_ago": 12,
+      "relevance": 42.7,
+      "popularity": 31.8,
+      "days_ago": 17,
       "evidence": "Trial / prospective"
     },
     {
@@ -1122,9 +1827,9 @@
         "Cell therapy",
         "Review"
       ],
-      "relevance": 37.8,
-      "popularity": 23.6,
-      "days_ago": 13,
+      "relevance": 35.8,
+      "popularity": 22.6,
+      "days_ago": 18,
       "evidence": "Review"
     },
     {
@@ -1144,9 +1849,9 @@
         "Macrophages",
         "Basic science"
       ],
-      "relevance": 36.3,
-      "popularity": 20.6,
-      "days_ago": 13,
+      "relevance": 34.3,
+      "popularity": 19.6,
+      "days_ago": 18,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1166,9 +1871,9 @@
         "Venetoclax",
         "Trial data"
       ],
-      "relevance": 43.5,
-      "popularity": 20.2,
-      "days_ago": 15,
+      "relevance": 41.5,
+      "popularity": 19.2,
+      "days_ago": 20,
       "evidence": "Trial / prospective"
     },
     {
@@ -1190,9 +1895,9 @@
         "CAR-T",
         "Trial data"
       ],
-      "relevance": 43.5,
-      "popularity": 32.2,
-      "days_ago": 15,
+      "relevance": 41.5,
+      "popularity": 31.2,
+      "days_ago": 20,
       "evidence": "Trial / prospective"
     },
     {
@@ -1212,9 +1917,9 @@
         "Microenvironment",
         "Basic science"
       ],
-      "relevance": 37.5,
-      "popularity": 18.2,
-      "days_ago": 15,
+      "relevance": 35.5,
+      "popularity": 17.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1233,9 +1938,9 @@
         "POEMS",
         "Review"
       ],
-      "relevance": 31.0,
-      "popularity": 14.2,
-      "days_ago": 15,
+      "relevance": 29.0,
+      "popularity": 13.2,
+      "days_ago": 20,
       "evidence": "Review"
     },
     {
@@ -1256,9 +1961,9 @@
         "Antibody-drug conjugate",
         "Trial data"
       ],
-      "relevance": 47.6,
-      "popularity": 25.0,
-      "days_ago": 16,
+      "relevance": 45.6,
+      "popularity": 24.0,
+      "days_ago": 21,
       "evidence": "RCT"
     },
     {
@@ -1278,9 +1983,9 @@
         "Trial design",
         "Review"
       ],
-      "relevance": 38.6,
-      "popularity": 18.0,
-      "days_ago": 16,
+      "relevance": 36.6,
+      "popularity": 17.0,
+      "days_ago": 21,
       "evidence": "Review"
     },
     {
@@ -1300,9 +2005,9 @@
         "Biomarker",
         "Basic science"
       ],
-      "relevance": 31.1,
-      "popularity": 13.0,
-      "days_ago": 16,
+      "relevance": 29.1,
+      "popularity": 12.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1323,9 +2028,9 @@
         "AI/ML",
         "Basic science"
       ],
-      "relevance": 31.5,
-      "popularity": 18.2,
-      "days_ago": 15,
+      "relevance": 29.5,
+      "popularity": 17.2,
+      "days_ago": 20,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1345,9 +2050,9 @@
         "Microenvironment",
         "Basic science"
       ],
-      "relevance": 27.1,
-      "popularity": 16.0,
-      "days_ago": 16,
+      "relevance": 25.1,
+      "popularity": 15.0,
+      "days_ago": 21,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1367,9 +2072,9 @@
         "CAR-T",
         "Review"
       ],
-      "relevance": 25.8,
-      "popularity": 23.6,
-      "days_ago": 18,
+      "relevance": 23.8,
+      "popularity": 23.0,
+      "days_ago": 23,
       "evidence": "Review"
     },
     {
@@ -1389,9 +2094,9 @@
         "CAR-T",
         "Basic science"
       ],
-      "relevance": 29.9,
-      "popularity": 24.4,
-      "days_ago": 19,
+      "relevance": 27.9,
+      "popularity": 24.0,
+      "days_ago": 24,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1410,9 +2115,9 @@
         "CAR-T",
         "Basic science"
       ],
-      "relevance": 15.9,
-      "popularity": 17.4,
-      "days_ago": 19,
+      "relevance": 13.9,
+      "popularity": 17.0,
+      "days_ago": 24,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1432,9 +2137,9 @@
         "GVHD",
         "Basic science"
       ],
-      "relevance": 29.1,
+      "relevance": 27.1,
       "popularity": 17.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1454,9 +2159,9 @@
         "Pediatric",
         "Prognosis"
       ],
-      "relevance": 33.1,
+      "relevance": 31.1,
       "popularity": 11.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -1476,9 +2181,9 @@
         "Immunotherapy",
         "Trial data"
       ],
-      "relevance": 38.9,
-      "popularity": 26.4,
-      "days_ago": 19,
+      "relevance": 36.9,
+      "popularity": 26.0,
+      "days_ago": 24,
       "evidence": "Observational"
     },
     {
@@ -1498,9 +2203,9 @@
         "ctDNA",
         "Trial data"
       ],
-      "relevance": 39.9,
-      "popularity": 22.4,
-      "days_ago": 19,
+      "relevance": 37.9,
+      "popularity": 22.0,
+      "days_ago": 24,
       "evidence": "Trial / prospective"
     },
     {
@@ -1520,9 +2225,9 @@
         "Immunotherapy",
         "Trial data"
       ],
-      "relevance": 45.6,
+      "relevance": 43.6,
       "popularity": 26.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -1543,9 +2248,9 @@
         "BTK inhibitor",
         "Basic science"
       ],
-      "relevance": 25.5,
-      "popularity": 21.2,
-      "days_ago": 20,
+      "relevance": 23.5,
+      "popularity": 21.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1566,9 +2271,9 @@
         "Immunotherapy",
         "Trial data"
       ],
-      "relevance": 39.1,
+      "relevance": 37.1,
       "popularity": 22.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -1587,9 +2292,9 @@
         "AML",
         "Basic science"
       ],
-      "relevance": 24.7,
+      "relevance": 22.7,
       "popularity": 15.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1608,9 +2313,9 @@
         "AML",
         "Basic science"
       ],
-      "relevance": 24.7,
+      "relevance": 22.7,
       "popularity": 15.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1631,9 +2336,9 @@
         "CAR-T",
         "Trial data"
       ],
-      "relevance": 35.1,
+      "relevance": 33.1,
       "popularity": 40.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -1654,9 +2359,9 @@
         "Transplant",
         "Guideline"
       ],
-      "relevance": 34.6,
+      "relevance": 32.6,
       "popularity": 23.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Review"
     },
     {
@@ -1677,9 +2382,9 @@
         "Asciminib",
         "Trial data"
       ],
-      "relevance": 40.0,
-      "popularity": 18.2,
-      "days_ago": 20,
+      "relevance": 38.0,
+      "popularity": 18.0,
+      "days_ago": 25,
       "evidence": "RCT"
     },
     {
@@ -1700,9 +2405,9 @@
         "Biomarker",
         "Basic science"
       ],
-      "relevance": 29.1,
+      "relevance": 27.1,
       "popularity": 14.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1722,9 +2427,9 @@
         "TCR-T",
         "Review"
       ],
-      "relevance": 29.0,
-      "popularity": 15.2,
-      "days_ago": 20,
+      "relevance": 27.0,
+      "popularity": 15.0,
+      "days_ago": 25,
       "evidence": "Review"
     },
     {
@@ -1744,9 +2449,9 @@
         "Basic science",
         "Review"
       ],
-      "relevance": 31.0,
-      "popularity": 14.2,
-      "days_ago": 20,
+      "relevance": 29.0,
+      "popularity": 14.0,
+      "days_ago": 25,
       "evidence": "Review"
     },
     {
@@ -1766,9 +2471,9 @@
         "BTK degrader",
         "Basic science"
       ],
-      "relevance": 26.7,
+      "relevance": 24.7,
       "popularity": 15.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1788,9 +2493,9 @@
         "Radiation",
         "Trial data"
       ],
-      "relevance": 45.6,
+      "relevance": 43.6,
       "popularity": 25.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -1810,9 +2515,9 @@
         "Genomics",
         "VEN/HMA"
       ],
-      "relevance": 33.5,
-      "popularity": 22.2,
-      "days_ago": 20,
+      "relevance": 31.5,
+      "popularity": 22.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -1832,9 +2537,9 @@
         "VEN/HMA",
         "Trial data"
       ],
-      "relevance": 35.5,
-      "popularity": 20.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 20.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -1854,9 +2559,9 @@
         "Risk model",
         "VEN/HMA"
       ],
-      "relevance": 41.5,
-      "popularity": 25.2,
-      "days_ago": 20,
+      "relevance": 39.5,
+      "popularity": 25.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -1877,9 +2582,9 @@
         "Bispecific",
         "MRD"
       ],
-      "relevance": 33.5,
+      "relevance": 31.5,
       "popularity": 23.0,
-      "days_ago": 25,
+      "days_ago": 30,
       "evidence": "Trial / prospective"
     },
     {
@@ -1900,9 +2605,9 @@
         "Epigenetics",
         "Basic science"
       ],
-      "relevance": 29.1,
+      "relevance": 27.1,
       "popularity": 18.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1922,9 +2627,9 @@
         "Myelofibrosis",
         "Basic science"
       ],
-      "relevance": 35.5,
-      "popularity": 22.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 22.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -1943,9 +2648,9 @@
         "Transplant",
         "Review"
       ],
-      "relevance": 30.6,
+      "relevance": 28.6,
       "popularity": 14.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Review"
     },
     {
@@ -1965,9 +2670,9 @@
         "CAR-T",
         "Trial data"
       ],
-      "relevance": 35.5,
-      "popularity": 29.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 29.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -1986,9 +2691,9 @@
         "Lymphoma",
         "CAR-T"
       ],
-      "relevance": 35.5,
-      "popularity": 29.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 29.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2009,9 +2714,9 @@
         "Immunotherapy",
         "Trial data"
       ],
-      "relevance": 35.5,
-      "popularity": 26.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 26.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2032,9 +2737,9 @@
         "BCL2 inhibitor",
         "Trial data"
       ],
-      "relevance": 41.1,
+      "relevance": 39.1,
       "popularity": 28.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -2054,9 +2759,9 @@
         "Hodgkin",
         "Imaging"
       ],
-      "relevance": 32.7,
+      "relevance": 30.7,
       "popularity": 15.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Trial / prospective"
     },
     {
@@ -2076,9 +2781,9 @@
         "CTCL",
         "Basic science"
       ],
-      "relevance": 34.7,
+      "relevance": 32.7,
       "popularity": 20.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2098,9 +2803,9 @@
         "Bispecific",
         "Plasma cell leukemia"
       ],
-      "relevance": 33.5,
-      "popularity": 32.2,
-      "days_ago": 20,
+      "relevance": 31.5,
+      "popularity": 32.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2120,9 +2825,9 @@
         "CAR-T",
         "Bridging"
       ],
-      "relevance": 29.5,
-      "popularity": 32.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 32.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2142,9 +2847,9 @@
         "CAR-T",
         "Toxicity"
       ],
-      "relevance": 29.5,
-      "popularity": 26.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 28.0,
+      "days_ago": 25,
       "evidence": "Case series"
     },
     {
@@ -2165,7 +2870,7 @@
       ],
       "relevance": 31.5,
       "popularity": 14.0,
-      "days_ago": 37,
+      "days_ago": 42,
       "evidence": "Trial / prospective"
     },
     {
@@ -2184,9 +2889,9 @@
         "CLL",
         "AIHA"
       ],
-      "relevance": 35.5,
-      "popularity": 14.2,
-      "days_ago": 20,
+      "relevance": 33.5,
+      "popularity": 14.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2205,9 +2910,9 @@
         "ALL",
         "Genomics"
       ],
-      "relevance": 29.5,
-      "popularity": 14.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 14.0,
+      "days_ago": 25,
       "evidence": "Case series"
     },
     {
@@ -2227,9 +2932,9 @@
         "CAR-T",
         "Basic science"
       ],
-      "relevance": 28.7,
+      "relevance": 26.7,
       "popularity": 26.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2249,9 +2954,9 @@
         "Risk model",
         "Acute leukemia"
       ],
-      "relevance": 29.5,
-      "popularity": 13.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 13.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2270,9 +2975,9 @@
         "Transplant",
         "GVHD"
       ],
-      "relevance": 29.5,
-      "popularity": 9.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 9.0,
+      "days_ago": 25,
       "evidence": "Trial / prospective"
     },
     {
@@ -2292,9 +2997,9 @@
         "Infection",
         "CMV"
       ],
-      "relevance": 29.1,
+      "relevance": 27.1,
       "popularity": 14.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -2315,9 +3020,9 @@
         "Anticoagulation",
         "Trial data"
       ],
-      "relevance": 43.6,
+      "relevance": 41.6,
       "popularity": 24.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -2337,9 +3042,9 @@
         "VTE",
         "Anticoagulation"
       ],
-      "relevance": 40.0,
-      "popularity": 17.2,
-      "days_ago": 20,
+      "relevance": 38.0,
+      "popularity": 17.0,
+      "days_ago": 25,
       "evidence": "RCT"
     },
     {
@@ -2359,9 +3064,9 @@
         "Gene therapy",
         "Basic science"
       ],
-      "relevance": 27.5,
-      "popularity": 19.2,
-      "days_ago": 20,
+      "relevance": 25.5,
+      "popularity": 19.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2381,9 +3086,9 @@
         "ADC",
         "Trial data"
       ],
-      "relevance": 45.6,
+      "relevance": 43.6,
       "popularity": 32.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -2404,9 +3109,9 @@
         "Bispecific",
         "Trial data"
       ],
-      "relevance": 41.1,
+      "relevance": 39.1,
       "popularity": 24.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Trial / prospective"
     },
     {
@@ -2427,9 +3132,9 @@
         "Radiation",
         "Trial data"
       ],
-      "relevance": 45.6,
+      "relevance": 43.6,
       "popularity": 25.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -2449,9 +3154,9 @@
         "Radiation",
         "Trial data"
       ],
-      "relevance": 45.6,
+      "relevance": 43.6,
       "popularity": 25.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "RCT"
     },
     {
@@ -2470,9 +3175,9 @@
         "CNS",
         "Review"
       ],
-      "relevance": 36.6,
+      "relevance": 34.6,
       "popularity": 22.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Review"
     },
     {
@@ -2492,9 +3197,9 @@
         "Solid tumor",
         "Basic science"
       ],
-      "relevance": 29.5,
-      "popularity": 18.2,
-      "days_ago": 20,
+      "relevance": 27.5,
+      "popularity": 18.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2514,9 +3219,9 @@
         "AI",
         "Solid tumor"
       ],
-      "relevance": 29.1,
+      "relevance": 27.1,
       "popularity": 18.0,
-      "days_ago": 21,
+      "days_ago": 26,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2536,9 +3241,9 @@
         "Bispecific",
         "Trial data"
       ],
-      "relevance": 38.7,
+      "relevance": 37.5,
       "popularity": 33.0,
-      "days_ago": 27,
+      "days_ago": 32,
       "evidence": "Trial / prospective"
     },
     {
@@ -2558,9 +3263,9 @@
         "Spatial omics",
         "Basic science"
       ],
-      "relevance": 25.5,
-      "popularity": 23.2,
-      "days_ago": 20,
+      "relevance": 23.5,
+      "popularity": 23.0,
+      "days_ago": 25,
       "evidence": "Basic / preclinical"
     },
     {
@@ -2580,9 +3285,9 @@
         "Review",
         "ctDNA"
       ],
-      "relevance": 34.2,
+      "relevance": 32.2,
       "popularity": 26.0,
-      "days_ago": 22,
+      "days_ago": 27,
       "evidence": "Review"
     }
   ]
